@@ -1,4 +1,4 @@
-SHREYTRONEX deployment refresh# SHREYTRONEX
+SHREYTRONEX v0.2 Voice and LanguagesSHREYTRONEX deployment refresh# SHREYTRONEX
 
 Personal Intelligence System — prototype 0.1.
 
