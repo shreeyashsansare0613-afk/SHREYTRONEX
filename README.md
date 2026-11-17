@@ -1,4 +1,4 @@
-# SHREYTRONEX
+SHREYTRONEX deployment refresh# SHREYTRONEX
 
 Personal Intelligence System — prototype 0.1.
 
