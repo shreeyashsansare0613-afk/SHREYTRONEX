@@ -1,0 +1,11 @@
+{
+  "name": "SHREYTRONEX",
+  "short_name": "SHREYTRONEX",
+  "description": "Personal Intelligence System",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#050b16",
+  "theme_color": "#071426",
+  "icons": [{"src":"./icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any"}]
+}
